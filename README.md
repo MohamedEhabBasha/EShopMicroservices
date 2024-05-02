@@ -14,4 +14,5 @@
 
 * ### Libraries
 
+![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)
 
