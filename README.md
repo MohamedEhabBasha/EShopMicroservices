@@ -14,7 +14,8 @@
 
 * ### Libraries
 
-![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)
+** ![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)
+
 ![NuGet Version](https://img.shields.io/nuget/v/Carter?label=Carter)
 ![NuGet Version](https://img.shields.io/nuget/v/Marten?style=flat&label=Marten)
 ![NuGet Version](https://img.shields.io/nuget/v/Mapster?style=flat&label=Mapster)
