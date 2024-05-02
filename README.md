@@ -14,6 +14,4 @@
 
 * ### Libraries
 
-<div align="center">
-	<code><img width="50" src="[https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png](https://api.nuget.org/v3-flatcontainer/mediatr.requestauthorization/2.0.0/icon)" alt="MediatR" title="MediatR"/></code>
-</div>
+
