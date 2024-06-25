@@ -11,13 +11,11 @@ public class DeleteProductCommandValidator : AbstractValidator<DeleteProductComm
         RuleFor(command => command.Id).NotEmpty().WithMessage("Product ID is required");
     }
 }
-internal class DeleteProductCommandHandler (IDocumentSession session, ILogger<DeleteProductCommandHandler> logger)
+internal class DeleteProductCommandHandler (IDocumentSession session)
     : ICommandHandler<DeleteProductCommand, DeleteProductResult>
 {
     public async Task<DeleteProductResult> Handle(DeleteProductCommand command, CancellationToken cancellationToken)
     {
-        logger.LogInformation("DeleteProductCommandHandler.Handle called with {@Command}", command);
-
         session.Delete<Product>(command.Id);
 
         await session.SaveChangesAsync(cancellationToken);
