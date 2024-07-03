@@ -27,6 +27,7 @@
    		*  <p>Provides a more structured way to organize our minimal APIs and simplifies the creation of HTTP request handlers.</p>
      
    *  ![NuGet Version](https://img.shields.io/nuget/v/Marten?style=flat&label=Marten)
+     		*  <p>Use PostgreSQL as a Document DB. It leverages PostgreSQL's JSON capabilities for storing, querying, and managing documents</p>
    *  ![NuGet Version](https://img.shields.io/nuget/v/Mapster?style=flat&label=Mapster)
    *  ![NuGet Version](https://img.shields.io/nuget/v/FluentValidation?style=flat&label=FluentValidation)
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.NpgSql?label=HealthChecks.NpgSql)
