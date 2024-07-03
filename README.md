@@ -42,7 +42,7 @@
  		*	<p>Check the health of Redis database.</p>
      
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.UI.Client?label=HealthChecks.UI.Client)
-    		 *	<p>View the health status in JSON format.</p>
+   		*	<p>View the health status in JSON format.</p>		 
        
    *  ![NuGet Version](https://img.shields.io/nuget/v/Microsoft.Extensions.Caching.StackExchangeRedis?label=StackExchangeRedis)
    		*	<p>Use Redis database for caching.</p>
