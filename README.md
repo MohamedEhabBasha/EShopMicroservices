@@ -20,4 +20,13 @@
 
 * ### NuGet Packages
 
-   *  ![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)	![NuGet Version](https://img.shields.io/nuget/v/Carter?label=Carter)	![NuGet Version](https://img.shields.io/nuget/v/Marten?style=flat&label=Marten)	![NuGet Version](https://img.shields.io/nuget/v/Mapster?style=flat&label=Mapster)	![NuGet Version](https://img.shields.io/nuget/v/FluentValidation?style=flat&label=FluentValidation)	![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.NpgSql?label=HealthChecks.NpgSql)	![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.Redis?label=HealthChecks.Redis)		![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.UI.Client?label=HealthChecks.UI.Client)		![NuGet Version](https://img.shields.io/nuget/v/Microsoft.Extensions.Caching.StackExchangeRedis?label=StackExchangeRedis)	![NuGet Version](https://img.shields.io/nuget/v/Scrutor?label=Scrutor)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/Carter?label=Carter)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/Marten?style=flat&label=Marten)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/Mapster?style=flat&label=Mapster)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/FluentValidation?style=flat&label=FluentValidation)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.NpgSql?label=HealthChecks.NpgSql)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.Redis?label=HealthChecks.Redis)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.UI.Client?label=HealthChecks.UI.Client)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/Microsoft.Extensions.Caching.StackExchangeRedis?label=StackExchangeRedis)
+   *  ![NuGet Version](https://img.shields.io/nuget/v/Scrutor?label=Scrutor)
