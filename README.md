@@ -21,9 +21,11 @@
 * ### NuGet Packages
 
    *  ![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)
-		*  <p>It is used to apply CQRS pattern</p>
+		*  <p>Simplifies the implementation of the CQRS pattern.</p>
      
    *  ![NuGet Version](https://img.shields.io/nuget/v/Carter?label=Carter)
+   		*  <p>Provides a more structured way to organize our minimal APIs and simplifies the creation of HTTP request handlers.</p>
+     
    *  ![NuGet Version](https://img.shields.io/nuget/v/Marten?style=flat&label=Marten)
    *  ![NuGet Version](https://img.shields.io/nuget/v/Mapster?style=flat&label=Mapster)
    *  ![NuGet Version](https://img.shields.io/nuget/v/FluentValidation?style=flat&label=FluentValidation)
