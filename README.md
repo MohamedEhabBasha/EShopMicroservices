@@ -36,7 +36,11 @@
 		 *	<p>For building strongly-typed validation rules, ensure inputs are correct before processed.</p>
   
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.NpgSql?label=HealthChecks.NpgSql)
+		*	<p>To check the health of PostgresSQL database.</p>
+ 
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.Redis?label=HealthChecks.Redis)
+ 		*	<p>To check the health of Redis database.</p>
+     
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.UI.Client?label=HealthChecks.UI.Client)
    *  ![NuGet Version](https://img.shields.io/nuget/v/Microsoft.Extensions.Caching.StackExchangeRedis?label=StackExchangeRedis)
    *  ![NuGet Version](https://img.shields.io/nuget/v/Scrutor?label=Scrutor)
