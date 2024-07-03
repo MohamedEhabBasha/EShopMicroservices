@@ -13,7 +13,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/> <a href="https://redis.io" target="_blank" rel="noreferrer"> 	
 </div>
 
-* ### Nuget Packeges
+* ### NuGet Packages
 
    *  ![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)	![NuGet Version](https://img.shields.io/nuget/v/Carter?label=Carter)	![NuGet Version](https://img.shields.io/nuget/v/Marten?style=flat&label=Marten)	![NuGet Version](https://img.shields.io/nuget/v/Mapster?style=flat&label=Mapster)	![NuGet Version](https://img.shields.io/nuget/v/FluentValidation?style=flat&label=FluentValidation)
   
