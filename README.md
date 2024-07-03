@@ -36,11 +36,16 @@
 		 *	<p>For building strongly-typed validation rules, ensure inputs are correct before processed.</p>
   
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.NpgSql?label=HealthChecks.NpgSql)
-		*	<p>To check the health of PostgresSQL database.</p>
+		*	<p>Check the health of PostgresSQL database.</p>
  
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.Redis?label=HealthChecks.Redis)
- 		*	<p>To check the health of Redis database.</p>
+ 		*	<p>Check the health of Redis database.</p>
      
    *  ![NuGet Version](https://img.shields.io/nuget/v/AspNetCore.HealthChecks.UI.Client?label=HealthChecks.UI.Client)
+    		 *	<p>View the health status in JSON format.</p>
+       
    *  ![NuGet Version](https://img.shields.io/nuget/v/Microsoft.Extensions.Caching.StackExchangeRedis?label=StackExchangeRedis)
+   		*	<p>Use Redis database for caching.</p>
+     
    *  ![NuGet Version](https://img.shields.io/nuget/v/Scrutor?label=Scrutor)
+ 		 *	<p>Implement decorator design pattern to integrate redis with postgresSQL database .</p>
