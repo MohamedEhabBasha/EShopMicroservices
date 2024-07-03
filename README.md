@@ -21,6 +21,7 @@
 * ### NuGet Packages
 
    *  ![NuGet Version](https://img.shields.io/nuget/v/MediatR?label=MediatR)
+     <p>It is used to applt CQRS pattern  with postgres database</p>
    *  ![NuGet Version](https://img.shields.io/nuget/v/Carter?label=Carter)
    *  ![NuGet Version](https://img.shields.io/nuget/v/Marten?style=flat&label=Marten)
    *  ![NuGet Version](https://img.shields.io/nuget/v/Mapster?style=flat&label=Mapster)
